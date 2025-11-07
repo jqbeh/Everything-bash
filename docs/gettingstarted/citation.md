@@ -1,6 +1,4 @@
 # Citation
 
-If you use PORT please cite:
-
-**Insert citation**
+If you find this page useful, please cite us!
 
