@@ -1,6 +1,6 @@
 # Bash tutorial
 
-Welcome to this Github! Here, you will find useful codes to run in bash/unix.
+Welcome to this Github! Here, you will find useful everyday bash codes 😄
 
 Visit the [website](https://jqbeh.github.io/Everything-bash/) to learn more!
 
