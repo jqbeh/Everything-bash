@@ -3,13 +3,13 @@
 <img src="_figures/port_logo.png" width="370">
 <!-- ![logo](_figures/port_logo.jpeg) { width: 100px; } -->
 
-> Plasmid Outbreak Investigation Tool
+> Bash Tutorial For Beginners
 
-- Reproducible pipieline for bacterial plasmid assembly and annotation
-- Takes long read as input
-- Easily interpretable output
+- Bash for beginners
+- Bash for working with biological data
+- Bash for working with prokaryotic genomes
 
-[GitHub](https://github.com/jqbeh/PORT)
+[GitHub](https://github.com/jqbeh/Everything-bash)
 [Get Started](gettingstarted/quickstart)
 
 
