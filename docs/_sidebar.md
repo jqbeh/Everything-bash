@@ -3,9 +3,7 @@
 - Getting Started
 
     - [Quick Start](/gettingstarted/quickstart.md)
-    - [Installation](/gettingstarted/installation.md)
-    - [Parameters](/gettingstarted/params.md)
-    - [Output](/gettingstarted/output.md)
+    - [About](/gettingstarted/about.md)
     - [Citation](/gettingstarted/citation.md)
 
 - Useful codes
